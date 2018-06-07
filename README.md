@@ -1,6 +1,6 @@
 # makesiCheat
 ## 南京理工大学思想政治理论课在线考试系统作弊器
-http://202.119.87.7/talk/PidClientLogin.jspx
+考试链接http://202.119.87.7/talk/PidClientLogin.jspx
 
 爬取了三个班级的同学做好的卷子，提取出了题目，选项以及答案，保存到数据库daye.db(在release的压缩包中)中
 
