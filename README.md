@@ -8,6 +8,7 @@ http://202.119.87.7/talk/PidClientLogin.jspx
 
 只用于技术交流，切不可用来作弊
 
-软件在release中下载
+软件在release中下载，https://github.com/z52c/makesiCheat/releases/download/v1.0/default.rar
+
 
 模拟试题满分卷链接：http://202.119.87.7/talk/ExamCaseReportGeneral.jspx?case_id=c06f1a4d-7769-4f31-afe2-52a8290e4ad3
